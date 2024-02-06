@@ -1,12 +1,12 @@
 name = "Lunarie"
 author = "sammyette"
-version = "1.0.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7805ba3ab25d6e478388ac1fae88f8802f064b678fba90e84248c97cd22288dd"
+hash = "c72416afbd4acc7cbeebe9577c01c054bb904dcff7834abeafc98b6438ddfa5e"
 
 [versions]
 fabric = "0.15.6"
