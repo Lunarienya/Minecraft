@@ -21,11 +21,6 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "d3dbaf280eec14fb1113e67ee1472d895b44540e564766f55208b1469cd0cda9"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "58ce678a9453daaf9fc743a02cc98efcfe94d5ad063ca2f83bb511aff2a0bcef"
 metafile = true
