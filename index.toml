@@ -16,11 +16,6 @@ hash = "1bfa978c09e27a1b064119a8ebe53083f63abc3625055f49f0f086a64c0222bb"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "58ce678a9453daaf9fc743a02cc98efcfe94d5ad063ca2f83bb511aff2a0bcef"
 metafile = true
@@ -58,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
