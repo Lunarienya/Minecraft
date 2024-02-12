@@ -6,6 +6,16 @@ hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "40fd8a56d3fd77959645c3d86005a33cf2a9d1b42ae7f4c03a9ec78a06a123b5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -21,8 +31,23 @@ hash = "58ce678a9453daaf9fc743a02cc98efcfe94d5ad063ca2f83bb511aff2a0bcef"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "aaa4c59417ef33d8ddfc16fcac5835cd48b691c771d51ee221114545c7118ddd"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+metafile = true
+
+[[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "ec4d51bf5ef72aa597636e2c924647f81cc3e246626f3abf358bc5ccac8b00fd"
 metafile = true
 
 [[files]]
@@ -128,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "44ab19941b58049d859553df1a1a9d31e5eaf0eb98a8b7c4d3f79d9b39e1c368"
 metafile = true
 
 [[files]]
