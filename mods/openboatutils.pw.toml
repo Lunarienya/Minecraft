@@ -1,0 +1,13 @@
+name = "OpenBoatUtils"
+filename = "OpenBoatUtils-0.4_1.20.1-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNtBiHzs/versions/moDRNetn/OpenBoatUtils-0.4_1.20.1-1.20.4.jar"
+hash-format = "sha1"
+hash = "a8d2132e5a38fab03448cf71cdfa81041f509736"
+
+[update]
+[update.modrinth]
+mod-id = "kNtBiHzs"
+version = "moDRNetn"

@@ -131,6 +131,11 @@ hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
 metafile = true
 
 [[files]]
+file = "mods/openboatutils.pw.toml"
+hash = "8bde5e01d077f9f2e5c78e5b76e55e2b5fad8209ad2d019119d5de287a461ac9"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
