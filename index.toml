@@ -136,6 +136,11 @@ hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
+file = "mods/signed-paintings.pw.toml"
+hash = "aa7ebe0573331d7f60573bf34137590f6033d29e10568d3883f1052202869e77"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
 metafile = true
