@@ -41,6 +41,11 @@ hash = "aaa4c59417ef33d8ddfc16fcac5835cd48b691c771d51ee221114545c7118ddd"
 metafile = true
 
 [[files]]
+file = "mods/dmmttba.pw.toml"
+hash = "2b2a588f56e2b06df5b88cd039e5ef4e307fb35eec32d62ed40d4b58a00138a7"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/ice-boat-drifting.pw.toml"
+hash = "de9e33eef9abaf29327c53039a9241fa811bdc18996dd88362542000f809eca4"
 metafile = true
 
 [[files]]
