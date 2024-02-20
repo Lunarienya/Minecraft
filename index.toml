@@ -81,9 +81,8 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
-file = "mods/ice-boat-drifting.pw.toml"
-hash = "de9e33eef9abaf29327c53039a9241fa811bdc18996dd88362542000f809eca4"
-metafile = true
+file = "mods/ice-boat-drifting-1.0.1.jar"
+hash = "1f23758f4ac33e7a9aa967db4ce30754d054e23356856c2d991a432b09659f00"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
