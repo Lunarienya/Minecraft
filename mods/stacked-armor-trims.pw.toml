@@ -1,0 +1,13 @@
+name = "Stacked Armor Trims"
+filename = "stacked-armor-trims-1.3.0-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VzNdDnci/versions/dnAwwtHa/stacked-armor-trims-1.3.0-1.20.4.jar"
+hash-format = "sha1"
+hash = "e69d03efa4bd992ea7ed9c9d2518f95adb94e45e"
+
+[update]
+[update.modrinth]
+mod-id = "VzNdDnci"
+version = "dnAwwtHa"

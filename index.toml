@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "cc897fa6b1a3210669e31659569060f0d9f92d57f8529dc19e7cd200dee302de"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
+metafile = true
+
+[[files]]
+file = "mods/archaeology-banners.pw.toml"
+hash = "3e8212c80ccd8efb1c713ec063b1cf51e972f672a72287ec3db8e04e51ca7537"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
+metafile = true
+
+[[files]]
+file = "mods/better-trim-tooltips.pw.toml"
+hash = "c0b4399adb48c2b8d9304d01d621c836b3c0a0faecab519108f62d40a5ee8bef"
 metafile = true
 
 [[files]]
@@ -48,6 +68,21 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "84099541d113b40afde01b62fac476c940898d8dcf669f34a3e48d79c0271f2c"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "88f7434367939b88f48f643aae7a08b4f4f2b950fdba569747e6690d152e68ff"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "f8b11c6e959744b53a8e5389c5ea007c26b60424e5b7efca3ea5e57b44fa51b7"
 metafile = true
 
 [[files]]
@@ -162,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/stacked-armor-trims.pw.toml"
+hash = "55415bdabf32c41ffcb3bffe4571fb8239db9ccd713df892f5cf6be52f28eae3"
 metafile = true
 
 [[files]]
