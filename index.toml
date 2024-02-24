@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/allthetrims.pw.toml"
-hash = "cc897fa6b1a3210669e31659569060f0d9f92d57f8529dc19e7cd200dee302de"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e256b55ec94408fd32ba3963fb21cd54718a087134ed24ea2c4c660f25bae977"
 metafile = true
@@ -192,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
-metafile = true
-
-[[files]]
-file = "mods/stacked-armor-trims.pw.toml"
-hash = "55415bdabf32c41ffcb3bffe4571fb8239db9ccd713df892f5cf6be52f28eae3"
 metafile = true
 
 [[files]]
