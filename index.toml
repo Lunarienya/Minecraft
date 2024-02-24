@@ -71,11 +71,6 @@ hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trim.pw.toml"
-hash = "84099541d113b40afde01b62fac476c940898d8dcf669f34a3e48d79c0271f2c"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims-extensions.pw.toml"
 hash = "88f7434367939b88f48f643aae7a08b4f4f2b950fdba569747e6690d152e68ff"
 metafile = true
