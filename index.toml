@@ -16,11 +16,6 @@ hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
 metafile = true
 
 [[files]]
-file = "mods/better-trim-tooltips.pw.toml"
-hash = "c0b4399adb48c2b8d9304d01d621c836b3c0a0faecab519108f62d40a5ee8bef"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
