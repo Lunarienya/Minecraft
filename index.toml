@@ -91,6 +91,11 @@ hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "fff92f1ff0c8a99cacbddf6b7e667886b0df51856a7b6be07958f1771de8afd6"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
 metafile = true
