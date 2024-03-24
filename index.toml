@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "54c92a1d353ca55a4ecb8d21c4b1fdb8f354b434a0c9448b523237cec9de1d7a"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "40fd8a56d3fd77959645c3d86005a33cf2a9d1b42ae7f4c03a9ec78a06a123b5"
+hash = "1b770fb451d27288334ac80e585fd1d2dfa28543d89e1cce3f5b673644564f4b"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "58ce678a9453daaf9fc743a02cc98efcfe94d5ad063ca2f83bb511aff2a0bcef"
+hash = "2928802be2e1160cfec349179ab43f9f611f92f5dd09f343be4671062dab4898"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
+hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f8b11c6e959744b53a8e5389c5ea007c26b60424e5b7efca3ea5e57b44fa51b7"
+hash = "f2995fcfb44eef5e8963213cb2223c82b95f0484353499d80a7268960b9be10b"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "db3c8e7c289678e7244a3cc0300303ebe68008b134e2ddfb207f7a2fb8cfa262"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "fff92f1ff0c8a99cacbddf6b7e667886b0df51856a7b6be07958f1771de8afd6"
+hash = "92d6b1785b947ec4c6998841b72eae58cb6323e59bd2dfe02f7ec848c244acd8"
 metafile = true
 
 [[files]]
@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4b0dc5a4e66974885600acef784f425a6930a1fa4e6091a0b46eef65c063c215"
+hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
 
 [[files]]
@@ -171,12 +171,12 @@ metafile = true
 
 [[files]]
 file = "mods/signed-paintings.pw.toml"
-hash = "aa7ebe0573331d7f60573bf34137590f6033d29e10568d3883f1052202869e77"
+hash = "4cd071afe273afae5e66ffcf2ba237088e69caf3a53fb221f6219afac6bd513d"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "671f00e95fdab8f0d4ecdde36e0954221dc6945552c423fe8cec6994b0f64a7a"
+hash = "3a65715930881f604ebca658e789e5e2b665cea98be76c2ac1c38d6c7778e6f6"
 metafile = true
 
 [[files]]
@@ -196,12 +196,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "44ab19941b58049d859553df1a1a9d31e5eaf0eb98a8b7c4d3f79d9b39e1c368"
+hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6fea2f9bac56a998ca70374c89e788a7d5d78d0b59311f4fadb09ec91af99212"
+hash = "1600e00f10ba1ad1c0b60be85bee523e66b13cfa61c8beab1b48042eb0a574bf"
 metafile = true
 
 [[files]]
